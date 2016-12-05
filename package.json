@@ -1,0 +1,9 @@
+{
+  "name": "",
+  "version": "",
+  "description": "",
+  "keywords": [],
+  "dependencies": {
+    "weui": "^0.4.3"
+  }
+}
